@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+# CODERS Social Media React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a comprehensive social media application built with React, utilizing styled-components for styling, and contexts for theme management and authentication. The app includes functionalities such as posting, liking, commenting, and user authentication.
 
-## Available Scripts
+# Author
 
-In the project directory, you can run:
+This application was developed as a final project during a one year Java Course in 2024 by 
+- [DCI - Digital Career Institute ](https://digitalcareerinstitute.org/).
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img src="https://avatars.githubusercontent.com/u/78208459?u=c3f9c7d6b49fc9726c5ea8bce260656bcb9654b3&v=4" width="200px" style="border-radius: 50%;"> 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- Create, edit, and delete posts.
+- Like and comment on posts.
+- User authentication (login, logout, registration).
+- Theme switching (light and dark mode).
+- Responsive design for various device sizes.
+- Sidebar for navigation and additional content.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies Used
 
-### `npm run build`
+- **React**: Frontend library for building the user interface.
+- **Styled Components**: For styling individual components and managing themes.
+- **Context API**: Used for managing themes and authentication states across the app.
+- **Firebase**: For user authentication and database management.
+- **Axios**: For making API requests to a backend server.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Setup and Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository:
+   ```bash
+    git clone <repository-url>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Navigate to the project directory:
+   ```bash
+   cd <project-directory>
+3. Install dependencies:
+   ```bash
+   npm install
 
-### `npm run eject`
+4. Set up the environment variables:
+- Create a `.env` file in the root directory.
+- Add your Firebase and other configuration keys:
+  ```
+  REACT_APP_FIREBASE_API_KEY=<your-firebase-api-key>
+  REACT_APP_FIREBASE_AUTH_DOMAIN=<your-firebase-auth-domain>
+  ...
+  ```
+5. Run the application:
+   ```bash
+   npm start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Project Structure
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- `src/components`: Contains reusable UI components like buttons, modals, and inputs.
+- `src/contexts`: Holds the React context files for theme and authentication.
+- `src/pages`: Includes React components representing pages.
+- `src/api`: API setup and service functions to interact with backend services.
+- `src/firebaseConfig.js`: Firebase configuration and utilities for user management.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Contributing
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Contributions to this project are welcome! Please adhere to the following guidelines:
 
-## Learn More
+- Fork the repository and create a new branch for your feature or fix.
+- Write clean, commented, and readable code.
+- Ensure the application builds and runs successfully before submitting a pull request.
+- Update the `README.md` with any changes needed in the setup or documentation.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Screenshots
+![1](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/da2c4033-5837-41a5-bfbe-e054b550c8c6)
+![2](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/e523c792-5fe6-4880-b4a3-50c2728d1e2e)
+![3](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/332925c3-37e1-4c37-b5f7-c8d0dab6bfc7)
+![4](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/adef25a5-13f0-4807-b269-17f2e02cd59d)
+![5](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/a64f0fbe-9e27-47ea-81f6-afc98b133342)
+![6](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/d50251f0-8355-4c9f-a03e-f5eb4cfeddc9)
+![7](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/19767449-dfaa-45e7-86b9-6bed0a978e6c)
+![8](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/dbfccd9a-119e-4879-8543-5eaaf417d147)
+![9](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/eaf2f93d-7cfa-4586-ae1d-42822b29b3ff)
+![10](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/5902e121-d7af-4445-afde-efab4f4ce4a1)
