@@ -73,13 +73,13 @@ Contributions to this project are welcome! Please adhere to the following guidel
 - Update the `README.md` with any changes needed in the setup or documentation.
 
 ## Screenshots
-![1](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/da2c4033-5837-41a5-bfbe-e054b550c8c6)
-![2](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/e523c792-5fe6-4880-b4a3-50c2728d1e2e)
-![3](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/332925c3-37e1-4c37-b5f7-c8d0dab6bfc7)
-![4](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/adef25a5-13f0-4807-b269-17f2e02cd59d)
-![5](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/a64f0fbe-9e27-47ea-81f6-afc98b133342)
-![6](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/d50251f0-8355-4c9f-a03e-f5eb4cfeddc9)
-![7](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/19767449-dfaa-45e7-86b9-6bed0a978e6c)
-![8](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/dbfccd9a-119e-4879-8543-5eaaf417d147)
-![9](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/eaf2f93d-7cfa-4586-ae1d-42822b29b3ff)
-![10](https://github.com/A3M-SocialMediaApp/a3m_Front-End/assets/78208459/5902e121-d7af-4445-afde-efab4f4ce4a1)
+![0](https://github.com/MN10101/Social-media-Frontend-React/assets/78208459/cc3d66cb-d1e5-4cc7-b8e4-25ab283251d3)
+![1](https://github.com/MN10101/Social-media-Frontend-React/assets/78208459/dbf86dda-4ad4-42d5-a6f2-b2b4614f586a)
+![2](https://github.com/MN10101/Social-media-Frontend-React/assets/78208459/e5118816-b733-4cb5-9425-9eb8d1ba7ac4)
+![3](https://github.com/MN10101/Social-media-Frontend-React/assets/78208459/4a293b35-e100-4498-ae27-aadec1528063)
+![4](https://github.com/MN10101/Social-media-Frontend-React/assets/78208459/423b529f-dd85-4f36-9e5f-4be1bce215a6)
+![5](https://github.com/MN10101/Social-media-Frontend-React/assets/78208459/b021e441-d383-43af-a1a2-9f76bee26cc4)
+![6](https://github.com/MN10101/Social-media-Frontend-React/assets/78208459/db460e10-99be-4cf6-8f1e-22cd62ae222e)
+![7](https://github.com/MN10101/Social-media-Frontend-React/assets/78208459/bdd091e0-f50a-422a-ad6d-93c5ffedb5b5)
+![8](https://github.com/MN10101/Social-media-Frontend-React/assets/78208459/2f2f9a02-8f7d-4721-85be-9a90c2b0fff1)
+
