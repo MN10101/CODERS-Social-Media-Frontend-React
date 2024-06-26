@@ -2,7 +2,7 @@
 
 This is a comprehensive social media application built with React, utilizing styled-components for styling, and contexts for theme management and authentication. The app includes functionalities such as posting, liking, commenting, and user authentication.
 
-# Authors
+# Author
 
 This application was developed as a final project during a one year Java Course in 2024 by 
 - [DCI - Digital Career Institute ](https://digitalcareerinstitute.org/).
