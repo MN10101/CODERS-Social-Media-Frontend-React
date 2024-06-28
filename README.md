@@ -7,11 +7,13 @@ This is a comprehensive social media application built with React, utilizing sty
 This application was developed as a final project during a one year Java Course in 2024 by 
 - [DCI - Digital Career Institute ](https://digitalcareerinstitute.org/).
 
+-  Mahmoud Najmeh
+
 
 <img src="https://avatars.githubusercontent.com/u/78208459?u=c3f9c7d6b49fc9726c5ea8bce260656bcb9654b3&v=4" width="200px" style="border-radius: 50%;"> 
 
 
-- Mahmoud Najmeh
+
 
 ## Features
 
