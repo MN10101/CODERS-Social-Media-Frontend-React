@@ -17,7 +17,7 @@ This application was developed as a final project during a one year Java Course 
 
 ## Features
 
-- Create, edit, and delete posts.
+- Create posts.
 - Like and comment on posts.
 - User authentication (login, logout, registration).
 - Theme switching (light and dark mode).
