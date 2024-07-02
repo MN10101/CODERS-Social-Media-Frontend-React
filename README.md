@@ -22,7 +22,7 @@ This application was developed as a final project during a one year Java Course 
 - User authentication (login, logout, registration).
 - Theme switching (light and dark mode).
 - Responsive design for various device sizes.
-- Sidebar for navigation and additional content.
+- 2 Sidebar for navigation and additional content.
 
 ## Technologies Used
 
