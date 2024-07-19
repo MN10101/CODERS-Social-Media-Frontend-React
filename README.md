@@ -36,11 +36,11 @@ This application was developed as a final project during a one year Java Course 
 
 1. Clone the repository:
    ```bash
-    git clone <repository-url>
+    git clone https://github.com/MN10101/CODERS-Social-Media-Frontend-React
 
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd CODERS-Social-Media-Frontend-React
 3. Install dependencies:
    ```bash
    npm install
